@@ -1,10 +1,11 @@
-# SCRAPING-ECOMMERCE-SITES-USING-BEAUTIFUL-SOUP-AND-PANDA
+# Scraping-ecommerce-sites-using-beautiful-soup-and-panda
 
-THIS PROJECT IS ON WEBSCRAPING USING BEAUTIFUL SOUP AND ASSOCIATED LIBRARIES. IT TAKES URL OF E-COMMERCE WEBSITE (eg: FLIPKART,AMZON ETC) FOR A PARTICULAR TYPES OF PRODUCT(LIKE SAMSUNG MOB.) AND extracts the FOLLOWING information listed below as an output from that webpage. IT ALSO SAVE THE INFORMATION IN A EXCEL FILE USING PANDA DATAFRAME FOR FURTHER ANALYSIS..
-1. PRODUCT'S NAME
-2. PRODUCT'S PRICE
-3. PRODUCT'S FEATURES
-4. RELATIVE URLS
-5. PRODUCT'S RATINGS AND REVIEWS.
+This Project Is On Web scraping Using Beautiful Soup And Associated Libraries. It Takes Url Of E-commerce Website (Eg: Flipkart,amzon Etc) For A Particular Types Of Product(Like Samsung Mob.) And Extracts The Following Information Listed Below As An Output From That Webpage. It Also Save The Information In A Excel File Using Panda Dataframe For Further Analysis..
 
-THIS PROJECT NOT ONLY SCRAP DETAILS FROM A SINGLE PAGE IT ALSO SCRAP THE ABOVE DATA FOR ALL PAGES ..
+1. Product's Name
+2. Product's Price
+3. Product's Features
+4. Relative Urls
+5. Product's Ratings And Reviews.
+
+#This Project Not Only Scrap Details From A Single Page It Also Scrap The Above Data For All Pages ..
